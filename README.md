@@ -1,4 +1,4 @@
-#Abschlussprojekt - Skriptsprache für Data Science
+Abschlussprojekt - Skriptsprache für Data Science
 
 Ist es möglich, Rezepte auf Grundlage ihrer Zutaten zu gruppieren? Lassen sich Zutaten 
 verschiedenen Ernährungspräferenzen zuordnen, und könnte dies die Generierung von Rezepten 
