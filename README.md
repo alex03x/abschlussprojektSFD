@@ -8,20 +8,20 @@ Mit diesen Fragen beschäftigt sich diese Abschlussarbeit im Rahmen des Moduls "
 für Data Science".
 
 Im Fokus steht die These: "Die Analyse von Rezeptzutaten und ihre Zuordnung zu verschiedenen 
-Ernährungspräferenzen ermöglicht die Identifizierung von Mustern und Trends in der 
-Lebensmittelauswahl, was wichtige Einblicke in Ernährungsgewohnheiten und -präferenzen liefern 
-kann."
+Ernährungspräferenzen ermöglicht die Identifizierung von Mustern in der 
+Lebensmittelauswahl, wodurch Rezepte kategorisierbar werden"
 
 Um dies zu prüfen, werden folgende Fragen untersucht:
 
-Können Rezepte auf Basis ihrer Zutaten in Cluster gruppiert werden?
-Lassen sich Zutaten verschiedenen Ernährungspräferenzen zuordnen, wie z.B. vegan, proteinreich, 
-kohlenhydratarm usw.?
-Könnte anhand dieser Zuordnung eine automatisierte Generierung von Rezepten erfolgen, die den 
-Ernährungspräferenzen entsprechen?
-Welche Muster und Trends lassen sich in den Ernährungsgewohnheiten und -präferenzen erkennen?
-Welchen Mehrwert bietet diese Analyse für die Ernährungswissenschaften und die 
-Lebensmittelindustrie?
+1. Können Rezepte auf Basis ihrer Zutaten in Cluster gruppiert werden?
+2. Lassen sich Zutaten verschiedenen Ernährungspräferenzen zuordnen, wie z.B. vegan,       
+   proteinreich, kohlenhydratarm usw.?
+3. Kann man einen Algorithmus darauf trainieren neue Rezepte zu den Ernährungspräferenzen 
+   zuzuordnen?
+4. Welche Muster und Trends lassen sich in den verschiedenen Ernährungsgewohnheiten und -
+   präferenzen erkennen?
+5. Welchen Mehrwert bietet diese Analyse für die Ernährungswissenschaften und die 
+   Lebensmittelindustrie?
 
 Die Abschlussarbeit wird mithilfe von Skriptsprachen wie Python durchgeführt, wobei 
 Datenanalyse- und Machine-Learning-Techniken angewendet werden, um die oben genannten Fragen zu 
